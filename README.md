@@ -59,8 +59,8 @@ Prints the decoded constant c (the secret) for each test case in the JSON file.
 rust
 Copy
 Edit
-Secret for Testcase 1: 23
-Secret for Testcase 2: 15
+Secret for Testcase 1: 3
+Secret for Testcase 2: 79836264049764
 
 ## 🚀 Submission
 ✅ Push all files (code + input.json + README.md) to GitHub
