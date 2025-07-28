@@ -1,0 +1,25 @@
+{
+  "testcases": [
+    {
+      "n": 5,
+      "k": 3,
+      "shares": [
+        {"key": 1, "value": "101", "base": 2},
+        {"key": 2, "value": "11", "base": 10},
+        {"key": 3, "value": "B", "base": 16},
+        {"key": 4, "value": "17", "base": 8},
+        {"key": 5, "value": "1100", "base": 2}
+      ]
+    },
+    {
+      "n": 4,
+      "k": 2,
+      "shares": [
+        {"key": 1, "value": "F", "base": 16},
+        {"key": 2, "value": "10", "base": 10},
+        {"key": 3, "value": "111", "base": 2},
+        {"key": 4, "value": "14", "base": 8}
+      ]
+    }
+  ]
+}

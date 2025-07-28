@@ -1,0 +1,2 @@
+Secret for Testcase 1: -4
+Secret for Testcase 2: 16
